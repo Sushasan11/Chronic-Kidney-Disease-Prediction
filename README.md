@@ -1,0 +1,1 @@
+This project is a Chronic Kidney Disease (CKD) Prediction System designed to assist in early detection and diagnosis of CKD. The system leverages advanced machine learning algorithms, including Random Forest, Support Vector Machine (SVM), and XGBoost, to classify and predict CKD based on input data.
